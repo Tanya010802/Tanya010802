@@ -1,6 +1,5 @@
 
 # 💫 About Me:
-<!--
 🔭 Background : I am prefinal year computer science student currently enhancing my problem solving skills in DSA. Passionate learner of machine learning and seasonal web developer.  <br>🌱 I’m currently honing my skills in DSA , machine learning , deep learning , SQL and enhancing my skills in MERN stack. <br>💬 Open to collaboration on ML related and projects and MERN stack projects. <br>
 
 
@@ -17,6 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tanya010802&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
--->
